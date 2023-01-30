@@ -5,7 +5,7 @@
     * Осциллограмма (oscillogram_MSV)
     * Бифуркационная диаграмма (bifurcation_diagramm_MSV)
     * Карта динамических режимов (dynamic_mode_map_MSV)
-  - Методы, основнные на точечном отображении (DMV)
+  - Методы, основанные на точечном отображении (DMV)
     * Диаграмма Ламерея (point_map_DMV)
     * Бифуркационная диаграмма (bifurcation_diagramm_DMV)
     * Диаграмма Ляпунова (lyapunov_diagramm_DMV)
